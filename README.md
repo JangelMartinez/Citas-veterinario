@@ -1,5 +1,5 @@
 # Citas-veterinario
 Creación de citas para veterinario y administrarlos
 
-#Stack Tecnologico
+# Stack Tecnologico
 Vite, React, TailwindCss
